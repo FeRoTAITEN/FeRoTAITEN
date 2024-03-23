@@ -1,5 +1,5 @@
 
-## Hi I'm Turki Alshahri :fox_face:
+## Turki Alshahri :fox_face:
 
 
 :computer: Software Developer Living in Tanumah k🇸🇦
