@@ -1,8 +1,8 @@
 
-## Turki Alshahri :fox_face:
+## Turki Alshahri 🥇
 
 
-:computer: Software Developer Living in 🇸🇦
+:computer: Software Developer Living in 🇸🇦:
 
   
 
