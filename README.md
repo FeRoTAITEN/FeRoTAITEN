@@ -4,7 +4,7 @@
 
 :computer: Software Developer Living in Tanumah k🇸🇦
 
-  <img src="https://b.top4top.io/p_2839xh1jn1.jpg" width="30"></h1>
+  
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
 <!--  <img width="250px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/> -->
