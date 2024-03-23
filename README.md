@@ -2,7 +2,7 @@
 ## Hi I'm Turki Alshahri :fox_face:
 
 
-:computer: _Software Developer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _Software Developer Living in Tanumah :Saudi Arabia:
 
 ### My Tech Stack
 
