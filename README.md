@@ -2,7 +2,7 @@
 ## Hi I'm Turki Alshahri :fox_face:
 
 
-:computer: Software Developer Living in Tanumah :SaudiArabia:
+:computer: Software Developer Living in Tanumah :U+1F1F8:
 
 ### My Tech Stack
 
