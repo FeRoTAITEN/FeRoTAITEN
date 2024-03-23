@@ -2,7 +2,7 @@
 ## Turki Alshahri :fox_face:
 
 
-:computer: Software Developer Living in Tanumah k🇸🇦
+:computer: Software Developer Living in 🇸🇦
 
   
 
