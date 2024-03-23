@@ -4,6 +4,19 @@
 
 :computer: Software Developer Living in Tanumah k🇸🇦
 
+  <img src="https://b.top4top.io/p_2839xh1jn1.jpg" width="30"></h1>
+ <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
+<!--  <img width="250px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<br/> -->
+
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+<img align="left" src="https://b.top4top.io/p_2839xh1jn1.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<hr>
+
 ### My Tech Stack
 
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
