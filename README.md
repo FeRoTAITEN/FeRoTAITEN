@@ -1,8 +1,8 @@
 
-## Hi I'm Gaboso :fox_face:
+## Hi I'm Turki Alshahri :fox_face:
 
 
-:computer: _Software Engenieer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
+:computer: _Software Developer at [Fitnezz.io](https://github.com/fitnezzio)_ :desert_island:Living in Floripa :brazil:
 
 ### My Tech Stack
 
