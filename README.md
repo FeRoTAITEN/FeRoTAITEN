@@ -6,7 +6,7 @@
 
   
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
-<!--  <img width="250px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
 <br/> -->
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
