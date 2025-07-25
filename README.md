@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="">
-    <img src="./tl2.gif">
-  </a>
+    <img src="./tl2.gif" alt="Turki's Tech Journey Timeline">
 </p>
 
 ---
