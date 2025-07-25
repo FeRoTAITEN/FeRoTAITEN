@@ -75,12 +75,12 @@
 
 ---
 
-
 ## 📈 Visitor Count
 
 <p align="center">
-<img src="https://visitor-badge.io/status?path=ferotaiten" />
+  <img src="https://visitor-badge.io/status?path=FeRoTAITEN/FeRoTAITEN" />
 </p>
+
 
 
 
