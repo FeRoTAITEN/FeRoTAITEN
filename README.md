@@ -79,7 +79,7 @@
 ## 📈 Visitor Count
 
 <p align="center">
-<img src="https://api.countapi.xyz/hit/github-ferotaiten/visits?style=flat-square&label=Visitors&color=blue" />
+![Visitors](https://shields.io/endpoint?url=https://api.countapi.xyz/hit/github-ferotaiten/visits)
 </p>
 
 
