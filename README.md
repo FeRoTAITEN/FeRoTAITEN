@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./tl1.gif">
+    <img src="./tl2.gif">
   </a>
 </p>
 
