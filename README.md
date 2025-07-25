@@ -78,12 +78,9 @@
 
 ## 📈 Visitor Count
 
-## 📈 Visitor Count
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ferotaiten/ferotaiten/main/view.svg" alt="visitor badge"/>
+  <img src="https://ferotaiten.github.io/ferotaiten/view.svg" alt="visitor badge"/>
 </p>
-
 
 
 
