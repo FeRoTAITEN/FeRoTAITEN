@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="./timeline.gif">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=4FC3F7&center=true&width=435&lines=Full+Stack+Web+Developer;AI+%7C+OpenAI+%7C+Cybersecurity;DevOps+%26+Cloud+Enthusiast;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Building+Something+Awesome...">
   </a>
 </p>
