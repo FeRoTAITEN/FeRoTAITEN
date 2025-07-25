@@ -78,7 +78,7 @@
 ## 📈 Visitor Count
 
 <p align="center">
-  <img src="https://visitor-badge.io/status?path=FeRoTAITEN/FeRoTAITEN" />
+<img src="https://img.shields.io/badge/dynamic/json?color=blue&label=👁️%20Visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fferotaiten%2Freadme" />
 </p>
 
 
