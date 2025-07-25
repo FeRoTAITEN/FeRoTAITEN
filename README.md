@@ -78,9 +78,12 @@
 
 ## 📈 Visitor Count
 
+## 📈 Visitor Count
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/profile-views.json" alt="Visitor Count" width="160px"/>
+  <img src="https://raw.githubusercontent.com/ferotaiten/ferotaiten/main/view.svg" alt="visitor badge"/>
 </p>
+
 
 
 
