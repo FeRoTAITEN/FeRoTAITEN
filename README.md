@@ -79,7 +79,7 @@
 ## 📈 Visitor Count
 
 <p align="center">
-<img src="https://api.countapi.xyz/hit/github-ferotaiten/visits?label=👁️ Visitors" />
+<img src="https://visitor-badge.io/status?path=ferotaiten" />
 </p>
 
 
