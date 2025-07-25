@@ -78,7 +78,9 @@
 
 ## 📈 Visitor Count
 
-<img src="https://api.countapi.xyz/hit/github-turki-alshahri/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO_NAME/main/profile-views.json" alt="Visitor Count" width="160px"/>
+</p>
 
 
 
