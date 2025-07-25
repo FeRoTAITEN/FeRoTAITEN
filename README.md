@@ -1,4 +1,4 @@
-<h1 align="center">Turki Alshahri 🧑‍💻</h1>
+<h1 align="center">Turki Alshehri 🧑‍💻</h1>
 <p align="center">
   <b>Full Stack Developer | Cybersecurity Enthusiast | Based in 🇸🇦</b><br>
   <i>Building impactful solutions and always learning!</i>
@@ -78,9 +78,8 @@
 
 ## 📈 Visitor Count
 
-<p align="center">
-  <img src="https://api.countapi.xyz/hit/github-turki-alshahri/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count"/>
-</p>
+<img src="https://api.countapi.xyz/hit/github-turki-alshahri/visits?style=flat-square&label=Visitors&color=blue" alt="Visitor Count"/>
+
 
 
 ---
