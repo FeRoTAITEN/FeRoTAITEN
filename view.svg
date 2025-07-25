@@ -1,4 +1,18 @@
-<svg xmlns='http://www.w3.org/2000/svg' width='150' height='20'>
-<rect width='150' height='20' fill='#1c1c1c'/>
-<text x='75' y='14' font-size='12' fill='white' text-anchor='middle'>👁️ Visitors: 1</text>
+count=$(cat count.txt)
+cat <<EOF > view.svg
+<svg xmlns="http://www.w3.org/2000/svg" width="250" height="40">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4facfe"/>
+      <stop offset="100%" stop-color="#00f2fe"/>
+    </linearGradient>
+    <filter id="shadow" height="130%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1.5" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <rect width="250" height="40" rx="10" ry="10" fill="url(#grad)" filter="url(#shadow)"/>
+  <text x="125" y="25" font-size="16" font-family="Arial, sans-serif" fill="white" text-anchor="middle" alignment-baseline="middle">
+    👁️ Visitors: $count
+  </text>
 </svg>
+EOF
