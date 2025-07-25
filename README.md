@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Turki Alshehri 👨‍💻</h1>
 <p align="center">
-  <b>Full Stack Developer | Cybersecurity Enthusiast | AI Explorer | Based in 🇸🇦</b><br>
+  <b>Full Stack Developer | Based in 🇸🇦</b><br>
   <i>Passionate about solving real-world problems through code, design, and innovation.</i>
 </p>
 
