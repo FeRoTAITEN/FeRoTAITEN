@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./timeline.gif">
+    <img src="./tm.gif">
   </a>
 </p>
 
