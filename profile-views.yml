@@ -1,0 +1,32 @@
+name: Update Profile Views
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Fetch current count
+        id: get
+        run: |
+          file="profile-views.json"
+          if [ ! -f "$file" ]; then echo '{"count":0}' > $file; fi
+          count=$(jq '.count' $file)
+          newcount=$((count + 1))
+          echo "count=$newcount" >> $GITHUB_OUTPUT
+          jq --argjson n "$newcount" '.count = $n' $file > tmp.json && mv tmp.json $file
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add profile-views.json
+          git commit -m "⬆️ Update profile views"
+          git push
